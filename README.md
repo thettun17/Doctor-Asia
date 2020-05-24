@@ -6,8 +6,8 @@
 
 ## Test for API
 ## https://doctor-asia-api.herokuapp.com/cat (need tow fields 'name' and 'age')
-## https://doctor-asia-api.herokuapp.com/getcat/:Shwe War 
-## https://doctor-asia-api.herokuapp.com/getcat/:Shwe War?timestamp=12354 
+## https://doctor-asia-api.herokuapp.com/getcat/ShweWar 
+## https://doctor-asia-api.herokuapp.com/getcat/ShweWar?timestamp=1590226604 
 
 ## Mongo DB Compass URL => mongodb+srv://thettun:9O5WegTwgoIuLV1F@cluster0-fnv01.mongodb.net/doctorAsia
 ## Mongo DB username = thettun
